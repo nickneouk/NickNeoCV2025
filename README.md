@@ -19,6 +19,17 @@ Highly accomplished finance professional with over 25 years of diverse experienc
 * Collaborated effectively with diverse stakeholders, ensuring seamless system integration and optimal performance.
 * Proactively addressed troubleshooting and issue resolution, minimizing downtime.
 * Contributed to end-user training and support, fostering system adoption.
+* Led the finance aspects of UAT in BC for multiple improvement programmes, including warehousing and MRP setup, UAT, data cleansing, item code setup, process redesign, production order process, physical inventory journals, item journal processing, and purchase order cleansing.
+
+### Interim Systems Accountant
+Electoral Commission | May 2023 - May 2024
+
+* Supported the rectification of a failed system implementation, addressing accounting process challenges.
+* Demonstrated a calm demeanor and unwavering determination to effect positive change.
+* Developed Excel-based solutions for Non-Current Asset management, commended by external auditors for meticulousness and design.
+* Led the installation of critical systems, including Accounts Receivable.
+* Effectively prioritised pressing issues and challenged suppliers to rectify longstanding issues.
+* Cultivated a harmonious team dynamic, inspiring confidence and motivating the team to overcome obstacles.
 
 ### Finance Systems Business Analyst
 *Various Clients* | *Dates of Engagements Available on Request*
@@ -56,6 +67,9 @@ Highly accomplished finance professional with over 25 years of diverse experienc
     * Managed and supported Infor SunSystems and Salesforce implementations.
 * **Financial Planning Systems Accountant / Project Lead** - (Oracle EBS / Collaborative Planning)
     * Led and supported financial planning system implementations.
+* **Accounting & Finance**
+    * Bank of America/Ritz Hotel/WPP Group/Bell Pottinger/Canon Uk/Transport for London/Mindshare/Publicis 1999 - 2007
+    * Maconomy, Sage, SAP, DDS, JD Edwards, Cognos, Oracle, Oracle OLAP Cubes
 
 **(Further details of assignments pre-2019 are available on request.)**
 
