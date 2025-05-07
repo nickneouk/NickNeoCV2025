@@ -1,5 +1,5 @@
 # Nick Neo
-[Your LinkedIn Profile URL - e.g., linkedin.com/in/neonick] | nickneouk@gmail.com | London Area, United Kingdom
+[linkedin.com/in/neonick](https://www.linkedin.com/in/neonick/) | nickneouk@gmail.com | London Area, United Kingdom
 
 ---
 
